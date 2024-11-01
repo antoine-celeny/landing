@@ -1,0 +1,9 @@
+.btn-blue{
+	background-color: #007BFF;
+	padding: 10px 5px;
+	border-radius: 3px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+	margin: 12px;
+}
